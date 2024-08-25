@@ -1,6 +1,6 @@
 The data needs to be format as shown below : 
 
-data
+data \\
   images 
     train : images used for the training 
     val : images used for validation
