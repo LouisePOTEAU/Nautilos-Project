@@ -23,3 +23,5 @@ Train 20: Station 05+44+55 - 1000 epochs --version 3.6.
 With a validation set (55)
 Train 21: Station 05+44 (non-extended) - 1000 epochs --> stopped at 245 epochs because 0 improvements in 100 epochs: Best epochs : 145 --version 4.1.
 Train 22: Station 05+44 (extended) - 1000 epochs --> stopped at 172 epochs because 0 improvements in 100 epochs: Best epochs : 72 --version 4.2.
+
+All the weights are available here : https://drive.google.com/drive/folders/1xls_IjR9F6sODYSRU550kegGIM-C1oe3?usp=sharing
