@@ -1,8 +1,8 @@
 The data needs to be format as shown below : 
 
-data 
+> data 
 
-  images 
+  >> images 
   
     >>> train : images used for the training 
     
