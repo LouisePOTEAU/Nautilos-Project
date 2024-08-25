@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+
+#/!\ Change path
+
+path: /Users/Louise/Documents/YOLO/data
+train: images/train
+val: images/val
+
+names :
+    0 : Nephrops
+    1 : Nephrops System
