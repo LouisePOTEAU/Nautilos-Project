@@ -2,7 +2,7 @@ For the CBIR algorithm, execution requires two different folders:
 
 > **DatabaseTot**:
 
-  > **images**: Contains the images from which features will be extracted.
+  >> **images**: Contains the images from which features will be extracted.
 
   > **labelTxt**: Contains the \textit{txt} files with information on the images.
 
