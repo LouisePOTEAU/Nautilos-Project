@@ -8,8 +8,8 @@ The data needs to be format as shown below :
     
     >>> val : images used for validation
     
-  labels
+  >> labels
   
-    train : txt corresponding to the images used for the training 
+    >>> train : txt corresponding to the images used for the training 
     
-    val : txt corresponding to the images used for validation
+    >>> val : txt corresponding to the images used for validation
