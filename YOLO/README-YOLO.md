@@ -4,9 +4,9 @@ data
 
   images 
   
-    train : images used for the training 
+    >>> train : images used for the training 
     
-    val : images used for validation
+    >>> val : images used for validation
     
   labels
   
