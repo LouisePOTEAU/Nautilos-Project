@@ -1,0 +1,25 @@
+Extended set
+With YOLO("yolov8m.yaml") : 
+Train 3 : Station 44 - 200 epochs
+Train 7 : Station 05+44 - 100 epochs
+Train 8 : Station 05+44 - 500 epochs
+Train 9 : Station 05+44+55 - 100 epochs
+Train 10 : Station 05+44+55 - 200 epochs
+Train 11 : Station 05+44+55 - 500 epochs
+Train 12 : Station 05+44+55 - 1000 epochs
+
+With YOLO("yolov8n.yaml") : 
+Train 13: Station 05+44+55 - 500 epochs
+Train 14: Station 05+44+55 - 1000 epochs
+
+Non-extended set
+Train 15: Station 05+44+55 - 100 epochs --version 3.1.
+Train 16: Station 05+44+55 - 200 epochs --version 3.2.
+Train 17: Station 05+44+55 - 300 epochs --version 3.3.
+Train 18: Station 05+44+55 - 400 epochs --version 3.4.
+Train 19: Station 05+44+55 - 500 epochs --version 3.5.
+Train 20: Station 05+44+55 - 1000 epochs --version 3.6.
+
+With a validation set (55)
+Train 21: Station 05+44 (non-extended) - 1000 epochs --> stopped at 245 epochs because 0 improvements in 100 epochs: Best epochs : 145 --version 4.1.
+Train 22: Station 05+44 (extended) - 1000 epochs --> stopped at 172 epochs because 0 improvements in 100 epochs: Best epochs : 72 --version 4.2.
